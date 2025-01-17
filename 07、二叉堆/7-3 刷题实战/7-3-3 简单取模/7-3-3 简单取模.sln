@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-3-3 简单取模", "7-3-3 简单取模.vcxproj", "{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Debug|x64.ActiveCfg = Debug|x64
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Debug|x64.Build.0 = Debug|x64
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Debug|x86.Build.0 = Debug|Win32
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Release|x64.ActiveCfg = Release|x64
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Release|x64.Build.0 = Release|x64
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Release|x86.ActiveCfg = Release|Win32
+		{8A39DC7E-EB05-4CD4-87B1-6011A5579FFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30BC688C-487C-4BFF-9039-8572DA6DA595}
+	EndGlobalSection
+EndGlobal
