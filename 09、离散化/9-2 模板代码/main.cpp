@@ -6,9 +6,9 @@ using namespace std;
 // 离散化模板
 // https://www.luogu.com.cn/problem/B3694
 
-// 1 1.5 -5 20 -5 10000000000
-// 第一步：排序  -5 -5 1 1.5 20 10000000000
-// 第二步：去重  -5 1 1.5 20 10000000000
+// 2333 20 1.7 -5 20 1 20 -5
+// 第一步：排序  -5 -5 1 1.7 20 20 20 2333
+// 第二步：去重  -5 1 1.7 20 2333
 //               0  1 2   3  4
 
 template<class T>
@@ -68,7 +68,7 @@ int Dicretizer<T>::Size() const {
     return m_data.size();
 }
 
-int a[100001];
+double a[100001];
 
 int main() {
     int t;
