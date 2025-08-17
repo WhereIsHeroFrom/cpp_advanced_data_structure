@@ -115,7 +115,8 @@ int main() {
     }
     SegmentTree<long long> stree(arr);
     while (m--) {
-        int z, x, y, k;
+        int z, x, y;
+        long long k;
         cin >> z;
         if (z == 1) {
             cin >> x >> y >> k;
